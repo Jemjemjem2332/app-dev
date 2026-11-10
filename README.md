@@ -1,43 +1,38 @@
 # app-dev
 My first repository
-# Thor: Ragnarok
+# Thor: Ragnarok ⚡
 
 ## My Favorite Movie
 
-### Introduction
-**Thor: Ragnarok** is my favorite Marvel movie because it is full of action, comedy, and adventure.
+**Thor: Ragnarok** is one of my favorite Marvel movies. It is an action-packed superhero film filled with comedy, adventure, and exciting battles. The movie follows Thor as he tries to save Asgard from destruction.
 
-### Why I Love This Movie
+## Why I Love This Movie
+
 I love this movie because it has amazing visual effects, funny scenes, and inspiring characters. *Thor's journey teaches us about courage, responsibility, and the importance of family.*
 
-### Bold
-**Thor is the God of Thunder.**
-
-### Italic
-*Thor is a brave and powerful superhero.*
-
-### Blockquote
 > "Asgard is not a place. It's a people."
 
-### Ordered List
-1. Thor
-2. Loki
-3. Hulk
+## My Favorite Characters
 
-### Unordered List
-- Action
-- Comedy
-- Adventure
+- **Thor** – The God of Thunder.
+- **Loki** – Thor's clever and mischievous brother.
+- **Hulk** – A powerful superhero with a funny personality.
+- **Valkyrie** – A brave and skilled warrior.
 
-### Code
-`Mjolnir`
+## My Favorite Scenes
 
-### Link
-[Thor: Ragnarok Movie](https://www.marvel.com/movies/thor-ragnarok)
+1. Thor fighting Hulk in the arena.
+2. Loki revealing his tricks.
+3. The final battle to save Asgard.
 
-### Image
-![Thor Ragnarok](https://image.tmdb.org/t/p/w500/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg)
+## Movie Information
+
+- **Title:** Thor: Ragnarok
+- **Genre:** Action, Adventure, Comedy
+- **Release Year:** 2017
+- **Director:** Taika Waititi
+- **Studio:** Marvel Studios
 
 ---
 
-**Thor: Ragnarok is an amazing movie that I will always enjoy watching!** 
+**Thor: Ragnarok is an amazing movie that I will always enjoy watching!** ⚡
