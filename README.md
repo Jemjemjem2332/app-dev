@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# Thor: Ragnarok ⚡
+# Thor: Ragnarok 
 
 ## My Favorite Movie
 
@@ -33,6 +33,3 @@ I love this movie because it has amazing visual effects, funny scenes, and inspi
 - **Director:** Taika Waititi
 - **Studio:** Marvel Studios
 
----
-
-**Thor: Ragnarok is an amazing movie that I will always enjoy watching!** ⚡
